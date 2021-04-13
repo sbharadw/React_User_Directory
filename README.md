@@ -1,4 +1,8 @@
-# Employee Directory
+## Employee Directory
+
+## Deployed Link 
+
+https://sbharadw.github.io/React_User_Directory/
 
 ## User Story
 
